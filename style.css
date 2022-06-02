@@ -14,7 +14,7 @@
     flex-wrap: wrap;
     background: #001300;
     overflow: hidden;
-    animation: animate 5s linear infinite;
+    animation: animateColor 5s linear infinite;
 }
 
 .container span {
