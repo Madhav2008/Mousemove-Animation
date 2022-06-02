@@ -36,5 +36,5 @@
 }
 
 @keyframes animateColor {
-    0% {}
+    0% {filter: ;}
 }
