@@ -37,7 +37,8 @@
     transform: scale(0);
 }
 
-.container span:hover::before {transition: 0s;
+.container span:hover::before {
+    transition: 0s;
     transform: scale(1);
 }
 
