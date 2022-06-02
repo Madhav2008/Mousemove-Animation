@@ -25,5 +25,5 @@
 
 .container span::before {
     content: '';
-    position: absolute;
+    position: absolute;top: 0;
 }
