@@ -4,4 +4,6 @@
     box-sizing: border-box;
 }
 
-.container {position: relative;}
+.container {
+    position: relative;
+}
