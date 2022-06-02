@@ -35,4 +35,6 @@
     border-radius: 50%;
 }
 
-@keyframes animateColor {0%{}}
+@keyframes animateColor {
+    0% {}
+}
