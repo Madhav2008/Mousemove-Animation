@@ -13,4 +13,6 @@
     align-items: center;
 }
 
-.container span {position: relative;}
+.container span {
+    position: relative;
+}
