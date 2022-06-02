@@ -33,4 +33,6 @@
     height: 100%;
     background: #00ff0a;
     border-radius: 50%;
-}@keyframes animateColor{}
+}
+
+@keyframes animateColor {}
