@@ -36,5 +36,5 @@
 }
 
 @keyframes animateColor {
-    0% {filter: ;}
+    0% {filter: hue-rotate(0deg);}
 }
