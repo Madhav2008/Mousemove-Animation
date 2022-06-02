@@ -15,5 +15,6 @@
 
 .container span {
     position: relative;
-    display: block;width: 40px;
+    display: block;
+    width: 40px;
 }
