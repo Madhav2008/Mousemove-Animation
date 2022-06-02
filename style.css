@@ -14,5 +14,5 @@
 }
 
 .container span {
-    position: relative;
+    position: relative;display: block;
 }
