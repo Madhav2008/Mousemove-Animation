@@ -36,7 +36,9 @@
     transform: scale(0);
 }
 
-.container span:hover::before {transform: scale(1);}
+.container span:hover::before {
+    transform: scale(1);
+}
 
 @keyframes animateColor {
     0% {
