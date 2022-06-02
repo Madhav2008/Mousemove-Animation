@@ -10,7 +10,7 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;flex-wrap: wrap;
     background: #001300;
     overflow: hidden;
 }
