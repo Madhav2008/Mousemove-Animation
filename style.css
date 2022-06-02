@@ -41,6 +41,6 @@
     }
 
     100% {
-        filter: hue-rotate(0deg);
+        filter: hue-rotate(360deg);
     }
 }
